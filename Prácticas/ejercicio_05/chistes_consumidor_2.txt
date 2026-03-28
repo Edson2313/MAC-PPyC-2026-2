@@ -1,0 +1,35 @@
+=== Chistes procesados por Consumidor 2 ===
+Inicio: 2026-03-28 07:05:00
+
+Chiste #3 (Productor 1):
+Chuck Norris can delete the recycle bin
+Timestamp: 07:05:01
+------------------------------------------------------------
+
+Chiste #5 (Productor 1):
+Chuck Norris can recite the alphebet sideways
+Timestamp: 07:05:02
+------------------------------------------------------------
+
+Chiste #7 (Productor 1):
+Immortality is Chuck Norris' middle name.
+Timestamp: 07:05:03
+------------------------------------------------------------
+
+Chiste #8 (Productor 1):
+Chuck Norris once destroyed a city to prove a point When asked Chuck Norris said The point was That I can destroy a city.
+Timestamp: 07:05:04
+------------------------------------------------------------
+
+Chiste #10 (Productor 1):
+A man once tried to beat Chuck Norris with his pennis,,,that man is now known as Rosie O'Donnell!!
+Timestamp: 07:05:04
+------------------------------------------------------------
+
+Chiste #12 (Productor 1):
+Chuck Norris once looked at an inmovable object and it ran in fear.
+Timestamp: 07:05:05
+------------------------------------------------------------
+
+
+Fin: 2026-03-28 07:05:05

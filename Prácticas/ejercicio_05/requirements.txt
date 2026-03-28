@@ -1,0 +1,18 @@
+
+## Requisitos
+
+### Dependencias
+El proyecto requiere Python 3.7 o superior y las siguientes librerías:
+
+- `requests` - Para consumir la API REST de Chuck Norris
+- `json` - Para procesar respuestas JSON (incluida en la biblioteca estándar)
+- 'queue' - creart cola
+- 'threading' - Hilos productores, consumidores
+- 'time' 
+- 'json'
+- 'datetime'
+
+### Instalación de dependencias
+
+```bash
+pip install -r requirements.txt

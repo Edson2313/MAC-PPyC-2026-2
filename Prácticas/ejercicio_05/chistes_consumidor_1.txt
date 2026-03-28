@@ -1,0 +1,20 @@
+=== Chistes procesados por Consumidor 1 ===
+Inicio: 2026-03-28 07:05:00
+
+Chiste #1 (Productor 1):
+Chuck Norris is so fertile that every time he jerks off into a sock it squeezes out a pair of cowboy boots.
+Timestamp: 07:05:01
+------------------------------------------------------------
+
+Chiste #2 (Productor 2):
+Chuck Norris roundhouse kicks don't really kill people. They wipe out their entire existence from the space-time continuum.
+Timestamp: 07:05:01
+------------------------------------------------------------
+
+Chiste #9 (Productor 2):
+A long time ago, in a galaxy far,far away.... Chuck Norris roundhouse kicked the shit out of somebody.
+Timestamp: 07:05:04
+------------------------------------------------------------
+
+
+Fin: 2026-03-28 07:05:06

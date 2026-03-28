@@ -1,0 +1,111 @@
+=== Sistema Productor-Consumidor (Versión Concurrente) ===
+Fecha: 2026-03-28 07:05:06
+Tiempo ejecución: 6.0070 segundos
+Productores: 2 | Consumidores: 3
+Tamaño máximo cola: 20
+
+=== ESTADÍSTICAS ===
+Total chistes producidos: 13
+Total chistes consumidos: 13
+Items en cola al final: 0
+
+=== DISTRIBUCIÓN POR CONSUMIDOR ===
+Consumidor 1: 3 chistes
+Consumidor 2: 6 chistes
+Consumidor 3: 4 chistes
+
+============================================================
+=== APÉNDICE: DETALLE DE ARCHIVOS POR CONSUMIDOR ===
+============================================================
+
+--- RECOPILACIÓN DE: chistes_consumidor_1.txt ---
+=== Chistes procesados por Consumidor 1 ===
+Inicio: 2026-03-28 07:05:00
+
+Chiste #1 (Productor 1):
+Chuck Norris is so fertile that every time he jerks off into a sock it squeezes out a pair of cowboy boots.
+Timestamp: 07:05:01
+------------------------------------------------------------
+
+Chiste #2 (Productor 2):
+Chuck Norris roundhouse kicks don't really kill people. They wipe out their entire existence from the space-time continuum.
+Timestamp: 07:05:01
+------------------------------------------------------------
+
+Chiste #9 (Productor 2):
+A long time ago, in a galaxy far,far away.... Chuck Norris roundhouse kicked the shit out of somebody.
+Timestamp: 07:05:04
+------------------------------------------------------------
+
+
+Fin: 2026-03-28 07:05:06
+
+----------------------------------------
+
+--- RECOPILACIÓN DE: chistes_consumidor_2.txt ---
+=== Chistes procesados por Consumidor 2 ===
+Inicio: 2026-03-28 07:05:00
+
+Chiste #3 (Productor 1):
+Chuck Norris can delete the recycle bin
+Timestamp: 07:05:01
+------------------------------------------------------------
+
+Chiste #5 (Productor 1):
+Chuck Norris can recite the alphebet sideways
+Timestamp: 07:05:02
+------------------------------------------------------------
+
+Chiste #7 (Productor 1):
+Immortality is Chuck Norris' middle name.
+Timestamp: 07:05:03
+------------------------------------------------------------
+
+Chiste #8 (Productor 1):
+Chuck Norris once destroyed a city to prove a point When asked Chuck Norris said The point was That I can destroy a city.
+Timestamp: 07:05:04
+------------------------------------------------------------
+
+Chiste #10 (Productor 1):
+A man once tried to beat Chuck Norris with his pennis,,,that man is now known as Rosie O'Donnell!!
+Timestamp: 07:05:04
+------------------------------------------------------------
+
+Chiste #12 (Productor 1):
+Chuck Norris once looked at an inmovable object and it ran in fear.
+Timestamp: 07:05:05
+------------------------------------------------------------
+
+
+Fin: 2026-03-28 07:05:05
+
+----------------------------------------
+
+--- RECOPILACIÓN DE: chistes_consumidor_3.txt ---
+=== Chistes procesados por Consumidor 3 ===
+Inicio: 2026-03-28 07:05:00
+
+Chiste #4 (Productor 2):
+Chuck Norris fixes the suspension on his Hummer when he limbo dances under it
+Timestamp: 07:05:02
+------------------------------------------------------------
+
+Chiste #6 (Productor 2):
+In an act of great philanthropy, Chuck made a generous donation to the American Cancer Society. He donated 6,000 dead bodies for scientific research.
+Timestamp: 07:05:03
+------------------------------------------------------------
+
+Chiste #11 (Productor 2):
+A man once taunted Chuck Norris with a bag of Lay's potato chips, saying "Betcha can't eat just one!" Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
+Timestamp: 07:05:04
+------------------------------------------------------------
+
+Chiste #13 (Productor 2):
+along time ago Chuck Norris met an Asian kid also named Chuck Norris. Not pleased with there being another Chuck Norris so he punched him so hard the name on the the Asian kid's birth certificate changed to Bruce Lee.
+Timestamp: 07:05:05
+------------------------------------------------------------
+
+
+Fin: 2026-03-28 07:05:05
+
+----------------------------------------
